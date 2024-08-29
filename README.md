@@ -1,7 +1,4 @@
-# Machine Learning for Cardiac Electrophysiology 
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Active-green.svg)
-![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
+# Machine Learning Approaches for ECG-Based Heart Condition Analysis and Reconstruction
 
 
 **If you find this repository useful, we ask that you also acknowledge and cite the original work as detailed in the [Citations](#citations) sections below. Also, don't forget to ⭐ this repository if you find it useful!**
